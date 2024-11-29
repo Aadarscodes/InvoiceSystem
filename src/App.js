@@ -14,12 +14,12 @@ function App() {
     //     <RightSide/>
     //   </div>
     // </div>
-    <div className="homepages">
-      <LoginRegisterForm/>
-    </div>
-    // <div>
-    //   <Usershome/>
+    // <div className="homepages">
+    //   <LoginRegisterForm/>
     // </div>
+    <div>
+      <Usershome/>
+    </div>
 
   );
 }

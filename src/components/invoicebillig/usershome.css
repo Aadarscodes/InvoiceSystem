@@ -36,3 +36,20 @@
       grid-template-columns: 1fr;
     } 
   }
+
+  .Invocefrom{
+    display:flex;
+  height: 80%;
+  width: 80%;
+  background: var(--glass);
+  border-radius: 2rem;
+  gap: 16px;
+  grid-template-columns: 11rem auto 20rem;
+  overflow: hidden; 
+  grid: area 100px; ; 
+  justify-content: center;
+  align-items: center;
+  /* min-height: 100vh; */
+  /* position: relative; */
+
+  }

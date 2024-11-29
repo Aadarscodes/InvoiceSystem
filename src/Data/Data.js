@@ -31,13 +31,14 @@ export const SidebarData = [
     heading: "Add Iteams",
   },
   {
+    icon: UilPackage,
+    heading: 'View Items'
+  },
+  {
     icon: UilUsersAlt,
     heading: "Customers",
   },
-  {
-    icon: UilPackage,
-    heading: 'Products'
-  },
+
   {
     icon: UilChart,
     heading: 'Analytics'
